@@ -1,0 +1,18 @@
+Questions For Java Lab
+
+Is an interface considered an object? Or is this more of a type that guarantees certain methods will be invoked for an object?
+
+Are interfaces the best way to handle types that do not share a common base class?
+
+Why would a programmer use multilevel inheritance of classes when interfaces are available?
+
+Why is reflection not suited to work for primitives, why does the primitive classs have to be mimicked?
+
+I am not sure I fully understand the need for an instance initializer as opposed to just using the constructor?
+
+I find it strange that a subtype of List has to be used and java doesnt support instantiating a variable of type List, does that mean anytime a list is declared in java it must always implement a subtype?
+
+Does Java provide support for methods that are asynchronous?
+
+
+
